@@ -5,6 +5,8 @@ A minimalist N-Body gravity simulation built with Python. This project simulates
 ### The Vision
 This project was built to explore a "sovereign nonchalant" approach to programming—focusing on the core laws of physics and watching a self-contained universe unfold from simple rules.
 
+![Uploading e42086ab-a720-4c60-8378-755bfbf08ac3.jpg…]()
+
 ### Features
 * Newtonian Physics: Uses the standard gravitational force equation with a "softening factor" to prevent numerical explosions.
 * Euler Integration: Updates velocity and position based on discrete time steps (DT).
