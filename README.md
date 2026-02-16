@@ -7,6 +7,7 @@ This project was built to explore a "sovereign nonchalant" approach to programmi
 
 ![Uploading e42086ab-a720-4c60-8378-755bfbf08ac3.jpg…]()
 
+
 ### Features
 * Newtonian Physics: Uses the standard gravitational force equation with a "softening factor" to prevent numerical explosions.
 * Euler Integration: Updates velocity and position based on discrete time steps (DT).
