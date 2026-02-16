@@ -5,7 +5,8 @@ A minimalist N-Body gravity simulation built with Python. This project simulates
 ### The Vision
 This project was built to explore a "sovereign nonchalant" approach to programming—focusing on the core laws of physics and watching a self-contained universe unfold from simple rules.
 
-![Uploading e42086ab-a720-4c60-8378-755bfbf08ac3.jpg…]()
+![e42086ab-a720-4c60-8378-755bfbf08ac3](https://github.com/user-attachments/assets/089dd7ec-31c6-4744-a62d-bdf6d38edbc6)
+
 
 
 ### Features
